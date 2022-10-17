@@ -1,1 +1,3 @@
-# example-project
+# example-project 🚀
+
+Rocket project!
