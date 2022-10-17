@@ -2,4 +2,3 @@
 
 Rocket project!
 
-Check it out!
